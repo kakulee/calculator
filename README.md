@@ -3,6 +3,7 @@ Calculator.js: a node.js Demonstration Project
 An example node.js project, including tests with mocha, that behaves like a pocket calculator.
 
 [![Build Status](https://dev.azure.com/kaku0903/Public-Project-with-Github/_apis/build/status/kakulee.calculator?branchName=master)](https://dev.azure.com/kaku0903/Public-Project-with-Github/_build/latest?definitionId=10&branchName=master)
+[![Build Status](https://dev.azure.com/iakaku/calcultor-github/_apis/build/status/calcultor-github-CI?branchName=master)](https://dev.azure.com/iakaku/calcultor-github/_build/latest?definitionId=9&branchName=master)
 
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
